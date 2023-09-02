@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="SeleniumHerouApp(failed)">
+    <classes>
+      <class name="Herouapp.DynamicTable">
+        <methods>
+          <include name="table_No2"/>
+          <include name="main"/>
+        </methods>
+      </class> <!-- Herouapp.DynamicTable -->
+    </classes>
+  </test> <!-- SeleniumHerouApp(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

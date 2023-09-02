@@ -1,0 +1,35 @@
+<suite name = "Test"   Thread-count = "2">
+    <tests name = "4 tests">
+        <test name="Calculator">
+            <classes>
+
+                <class name = "Herouapp.SeleniumSimplifiedCalculator">
+
+
+                </class>
+
+            </classes>
+
+
+        </test>
+
+        <test name = "table">
+
+            <classes>
+
+                <class name = "Herouapp.DynamicTable">
+
+
+                </class>
+
+            </classes>
+
+
+
+        </test>
+
+    </tests>
+
+
+
+</suite>
